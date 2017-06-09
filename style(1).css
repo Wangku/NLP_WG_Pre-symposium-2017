@@ -5579,10 +5579,6 @@ pre code {
 .container-fluid:after {
   clear: both; }
 
-.row {
-  margin-left: -15px;
-}
-
 .row:before, .row:after {
   content: " ";
   display: table; }
